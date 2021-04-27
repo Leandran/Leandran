@@ -3,7 +3,7 @@
 A self taught problem solver
 interested in Ruby on Rails and Python development.
 I’m currently learning full stack Java as part of the Microsoft skills initiative (Java, Javascript, Angular, Html ,CSS)
-and looking to collaborate on Rails and Python related projects, however i am open to all other tech stacks
+and looking to collaborate on Rails and Python related projects, however I am open to all other tech stacks
 mailbox You can reach me via Linkedin: https://www.linkedin.com/in/leandran-moodley/
 
 ---
