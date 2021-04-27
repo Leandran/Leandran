@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Leandran
 
 A self taught problem solver
-I’m interested in Ruby on Rails and Python development
+interested in Ruby on Rails and Python development.
 I’m currently learning full stack Java as part of the Microsoft skills initiative (Java, Javascript, Angular, Html ,CSS)
-I’m looking to collaborate on Rails and Python related projects, however i am open to all other tech stacks
+and looking to collaborate on Rails and Python related projects, however i am open to all other tech stacks
 mailbox You can reach me via Linkedin: https://www.linkedin.com/in/leandran-moodley/
 
 ---
