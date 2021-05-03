@@ -19,7 +19,7 @@ Primary 🧰 Toolbox
 ---
 
 
-🧰 Toolbox - Technologies that I have worked with but will need to prep further if required for a position
+Secondry 🧰 Toolbox - Technologies that I have worked with but will need to prep further if required for a position
 
 
 
